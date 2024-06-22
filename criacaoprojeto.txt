@@ -1,0 +1,21 @@
+mkdir C:\Users\Administrador\AppData\Roaming\npm
+npm config set prefix C:\Users\Administrador\AppData\Roaming\npm
+npm cache clean --force
+
+
+npm install -g create-react-app
+npm install axios
+
+npm config get prefix
+create-react-app crud-app
+npm install bootstrap react-bootstrap
+npm install react-router-dom
+
+iccones react
+npm install react-icons --save
+
+
+Criar o projeto Node.js back end
+npm install mysql@2.18.1
+npm install mysql2
+"jave121314"
