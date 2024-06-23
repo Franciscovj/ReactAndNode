@@ -7,3 +7,6 @@ This application is a CRUD (Create, Read, Update, Delete) app that manages a tas
 
 ## Descrição
 Este aplicativo é um app CRUD (Create, Read, Update, Delete) que gerencia uma lista de tarefas. Ele possui um backend desenvolvido em Node.js, fornecendo APIs RESTful para manipular os dados das tarefas, e um frontend construído em React para a interface do usuário.
+
+## Créditos
+Desenvolvido por [Francisco Vito Júnior](https://github.com/Franciscovj).
